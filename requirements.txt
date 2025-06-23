@@ -1,0 +1,6 @@
+
+## 🚀 Future Upgrades
+- Add `--html` report option
+- Web UI with Flask
+- Auto-import from system logs
+- Email alert system
